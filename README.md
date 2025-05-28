@@ -1,6 +1,7 @@
-# 💫 About Me:
-I'm Roshan Shrestha
+# Hello World!, I'm Roshan Shrestha, a Nepali Web Developer 👋🏼:
 
+# 💫 About Me:
+🛜 currently working on my own webpage<br>👨🏼‍🎓 studying media based computer science at Itahari namuna college<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>saugat shrestha</i>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/saugat.shrestha.656586/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dexter_saugat/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:onlinesaugat.shrestha@gmail.com) 
