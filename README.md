@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a it student 
+I'm Roshan Shrestha
 
 
 ## 🌐 Socials:
